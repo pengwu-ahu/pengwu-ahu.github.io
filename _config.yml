@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://ChenShuai00/blog.github.io
+url:                   https://chenshuai00.github.io/blog.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -57,11 +57,17 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               https://hydejack.com/docs/
   - title:             About
+    url:               /about/
+  - title:             Research
+    url:               /example/
+  - title:             Publications
+    url:               /about/
+  - title:             Teaching
+    url:               /about/
+  - title:             Service
+    url:               /about/
+  - title:             Contact
     url:               /about/
 
 # Add links to the footer.
@@ -79,7 +85,7 @@ copyright:             © 2019. All rights reserved. Open `_config.yml` to edit 
 permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              10
+paginate:              5
 paginate_path:         /page-:num/
 
 
