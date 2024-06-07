@@ -19,19 +19,16 @@ url:                   https://ChenShuai00/blog.github.io
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack Starter Kit
+title:                 Peng Wu
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
-  Open `_config.yml` to edit this text.
+  Peng Wu Associate Professor
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Best Jekyll Theme by a Mile".
-  Open `_config.yml` to edit this text.
+  Associate Professor
 
 # A list of keywords for your blog
 keywords:              []
@@ -39,14 +36,24 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/icons/icon.png
+logo:                  /assets/img/pengwu.jpg
+
+favicon: assets/img/icons/peng.png
+apple_touch_icon: assets/img/icons/peng.png
+
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
-  # Used by `jekyll-seo-tag`:
+  # Used by `jekyll-feed`:
+  name:                Peng Wu
+  email:               pengwu@ahu.edu.cn
+  picture:
+    path:            /assets/img/pengwu.jpg
+  # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
+  social:
+    github:          pengwu-ahu
+    email:           pengwu@ahu.edu.cn
 
 # Add links to the sidebar.
 menu:
@@ -80,7 +87,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/bg/bg.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
