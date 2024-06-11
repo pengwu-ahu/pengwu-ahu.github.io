@@ -1,9 +1,7 @@
 ﻿---
 layout: page
-title:  About Me
-cover:  false
-menu:   true
-order:  1
+title: About me
+cover: false
 ---
 I am a professor at [iSchool](http://ischool.njust.edu.cn/) of Nanjing University of Science and Technology [(NJUST)](http://english.njust.edu.cn/). I received PhD degree of Information Science from [Nanjing University](https://www.nju.edu.cn/EN/), China. I have published more than 100 [publications](https://chengzhizhang.github.io/papers/), including JASIST, IPM, LISR, TFSC, Aslib JIM, JOI, OIR, SCIM, ACL, NAACL, etc. I [serve](https://chengzhizhang.github.io/service/) as Associate Editor of Heliyon (Information Science), Editorial Board Member and Managing Guest Editor for 10 international journals (Patterns, IPM, SCIM, OIR, Aslib JIM, TEL, IDD, NLE, JDIS, DIM, DI, etc.) and PC members of several international conferences (ACL, IJCAI, EMNLP, NAACL, EACL, AACL, IJCNLP, NLPCC, ASIS&T, JCDL, iConference, ISSI, etc.) in fields of natural language process and scientometrics.
 My research fields include information retrieval, information organization, text mining and nature language processing. Currently, I am focusing on [scientific text mining](https://chengzhizhang.github.io/research/#scientific-text-mining), [knowledge entity extraction and evaluation](https://chengzhizhang.github.io/research/#knowledge-entity-extraction-and-evaluation
@@ -20,7 +18,7 @@ I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/)
 * Call for Paper: Special isssue about "AI + Informetrics" at [Journal of Informetrics.](https://www.sciencedirect.com/journal/journal-of-informetrics/about/call-for-papers#artificial-intelligence-and-informetrics) 
 * Call for Paper: Special isssue about "Innovation Measurement for Scientific Communication in the Era of Big Data" at [The Electronic Library](https://www.emeraldgrouppublishing.com/calls-for-papers/innovation-measurement-scientific-communication-imsc-era-big-data)
 * In December 2023, a paper has been accepted by ***Information Processing and Management***. [[doi]](https://doi.org/10.1016/j.ipm.2023.103614) [[Dataset & Source Code]](https://github.com/yan-xinyi/AKE)
-* In November 2023, a paper has been accepted by ***Information Processing and Management***. [[doi]](https://doi.org/10.1016/j.ipm.2023.103574) [[Dataset & Source Code]](https://github.com/ZH-heng/technology_development) 
+* In November 2023, a paper has been accepted by ***Information Processing and Management***. [[doi]](https://doi.org/10.1016/j.ipm.2023.103574) [[Dataset & Source Code]](https://github.com/ZH-heng/technology_development)
 * In September 2023, a paper has been accepted by ***Information Processing and Management***. [[doi]](https://doi.org/10.1016/j.ipm.2023.103507) [[Demo]](https://chengzhizhang.github.io/research/research_methods/research_topic_method.html)
 * In June 2023, Special Issue (Extraction and evaluation of knowledge entities in the age of artificial intelligence) on ***Aslib Journal of Information Management*** has been published and the link of the SI is: [https://www.emerald.com/insight/publication/issn/2050-3806/vol/75/iss/3](https://www.emerald.com/insight/publication/issn/2050-3806/vol/75/iss/3),  [[Editorial]](https://doi.org/10.1108/AJIM-05-2023-507)
 * In May 2023, a paper has been accepted by ***Library and Information Science Research***. [[doi]](https://doi.org/10.1016/j.lisr.2023.101255) 
@@ -51,3 +49,8 @@ I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/)
 * In August 2020, a paper has been accepted by ***Journal of Informetrics***. [[doi]](https://doi.org/10.1016/j.joi.2020.101091)  [[arxiv]](https://arxiv.org/abs/2010.10817) [[Demo: Algorithm Influence in NLP (1979~2015)]](https://chengzhizhang.github.io/research/algorithm_entity/algorithm_influence.html)   [[Video](https://chengzhizhang.github.io/research/algorithm_entity/video.html)]
 
 
+<br>
+<p align="center">
+<a href='https://clustrmaps.com/site/1bcxl'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=450&t=tt&d=m33y5dN8Mj3n06hFPjMAdcBqZ_bJr4ridHxEPxBPbls'/></a>
+<br>(From 2022/05/10 to now)
+</p>
