@@ -1,197 +1,58 @@
+﻿---
+layout: page
+title:  About
+cover:  false
+menu:   true
+order:  1
 ---
-# This page uses Hydejack's `about` layout, which shows the primary author's picture and about text at the top.
-# You can change it to the regular `page` layout if you want.
-layout: about
+I am a professor at [iSchool](http://ischool.njust.edu.cn/) of Nanjing University of Science and Technology [(NJUST)](http://english.njust.edu.cn/). I received PhD degree of Information Science from [Nanjing University](https://www.nju.edu.cn/EN/), China. I have published more than 100 [publications](https://chengzhizhang.github.io/papers/), including JASIST, IPM, LISR, TFSC, Aslib JIM, JOI, OIR, SCIM, ACL, NAACL, etc. I [serve](https://chengzhizhang.github.io/service/) as Associate Editor of Heliyon (Information Science), Editorial Board Member and Managing Guest Editor for 10 international journals (Patterns, IPM, SCIM, OIR, Aslib JIM, TEL, IDD, NLE, JDIS, DIM, DI, etc.) and PC members of several international conferences (ACL, IJCAI, EMNLP, NAACL, EACL, AACL, IJCNLP, NLPCC, ASIS&T, JCDL, iConference, ISSI, etc.) in fields of natural language process and scientometrics.
+My research fields include information retrieval, information organization, text mining and nature language processing. Currently, I am focusing on [scientific text mining](https://chengzhizhang.github.io/research/#scientific-text-mining), [knowledge entity extraction and evaluation](https://chengzhizhang.github.io/research/#knowledge-entity-extraction-and-evaluation
+), [keyphrase extraction](https://chengzhizhang.github.io/research/#keyphrase-extraction), [social media mining](https://chengzhizhang.github.io/research/#social-media-mining). 
 
-# The title of the page.
-title: About
+I was a visiting scholar in the [School of Computing and Information](https://www.sci.pitt.edu/) at the [University of Pittsburgh](http://www.pitt.edu/) and in the [Department of Linguistics and Translation](http://lt.cityu.edu.hk/) at the [City University of Hong Kong](https://www.cityu.edu.hk/).
 
-# Write a short (~150 characters) description of each blog post.
-# This description is used to preview the page on search engines, social media, etc.
-description: >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/) at NJUST.
 
-# You can show the description on the page by deleting this line:
-hide_description: true
-
-# TODO
-image: /assets/img/blog/hydejack-8.png
----
-
-The "Best Jekyll Theme by a Mile".
-{:.lead}
-
-![Screenshot](assets/img/blog/hydejack-8.png){:.lead srcset="/assets/img/blog/hydejack-8.png 1920w, /assets/img/blog/hydejack-8@0,5x.png 960w, /assets/img/blog/hydejack-8@0,25x.png 480w" data-width="1920" data-height="1080"}
-Hydejack's cover page on a variety of screens.
-{:.figure}
-
-**Hydejack** is your presence on the web. It gives you a *blog* that is suitable for both prose and technical documentation, a *portfolio* to showcase your projects, and a beautiful *resume* template that looks amazing on the web and in print.
-
-> Your presence on the web — A [blog], a [portfolio], and a [resume].
-{:.lead}
-
-There are two versions of **Hydejack**: The base version is free, while features that are specific to *professionals* are a payed upgrade.
-
-|                        | Free           | PRO      |
-|:-----------------------|:--------------:|:--------:|
-| Blog                   | &#x2714;       | &#x2714; |
-| [Features]             | &#x2714;       | &#x2714; |
-| [Portfolio]            |                | &#x2714; |
-| [Resume]               |                | &#x2714; |
-| [Welcome]              |                | &#x2714; |
-| [Newsletter Box][news] |                | &#x2714; |
-| [Custom Forms][forms]  |                | &#x2714; |
-| Dark Mode              |                | &#x2714; |
-| Cookie Banner          |                | &#x2714; |
-| Offline Support        |                | &#x2714; |
-| No Hydejack Branding   |                | &#x2714; |
-| License                | [GPL-3.0][lic] | [PRO]    |
-| Source                 | [GitHub][src]  | Included |
-| Support[^1]            | No             | No       |
-| Price                  | Free           | $59      |
-| | [**Download**][kit] <br/>-- or --<br/> [![Deploy to Netlify][dtn]{:data-ignore=""}][nfy]{:.no-hover.no-mark} | [**Buy PRO**][buy] |
-{:.stretch-table.dl-table}
+ 
+## Recent News
+* ***Call For Posters and Demos***:  2024 ACM/IEEE Joint Conference on Digital Libraries ([JCDL2024 Posters and Demos](https://2024.jcdl.org/call-for-posters-and-demos/)), Face to face session in Hong Kong
+* Call for Paper: Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Documents and the 4th AI + Informetrics ([EEKE-AII2024](https://eeke-workshop.github.io/2024/)) at the iConference2024, Changchun, China and Online
+* Call for Paper: Special isssue about "AI + Informetrics" at [Journal of Informetrics.](https://www.sciencedirect.com/journal/journal-of-informetrics/about/call-for-papers#artificial-intelligence-and-informetrics) 
+* Call for Paper: Special isssue about "Innovation Measurement for Scientific Communication in the Era of Big Data" at [The Electronic Library](https://www.emeraldgrouppublishing.com/calls-for-papers/innovation-measurement-scientific-communication-imsc-era-big-data)
+* In December 2023, a paper has been accepted by ***Information Processing and Management***. [[doi]](https://doi.org/10.1016/j.ipm.2023.103614) [[Dataset & Source Code]](https://github.com/yan-xinyi/AKE)
+* In November 2023, a paper has been accepted by ***Information Processing and Management***. [[doi]](https://doi.org/10.1016/j.ipm.2023.103574) [[Dataset & Source Code]](https://github.com/ZH-heng/technology_development) 
+* In September 2023, a paper has been accepted by ***Information Processing and Management***. [[doi]](https://doi.org/10.1016/j.ipm.2023.103507) [[Demo]](https://chengzhizhang.github.io/research/research_methods/research_topic_method.html)
+* In June 2023, Special Issue (Extraction and evaluation of knowledge entities in the age of artificial intelligence) on ***Aslib Journal of Information Management*** has been published and the link of the SI is: [https://www.emerald.com/insight/publication/issn/2050-3806/vol/75/iss/3](https://www.emerald.com/insight/publication/issn/2050-3806/vol/75/iss/3),  [[Editorial]](https://doi.org/10.1108/AJIM-05-2023-507)
+* In May 2023, a paper has been accepted by ***Library and Information Science Research***. [[doi]](https://doi.org/10.1016/j.lisr.2023.101255) 
+* Call for Paper: Joint Workshop of the 4th Extraction and Evaluation of Knowledge Entities from Scientific Documents and the 3rd AI + Informetrics ([EEKE-AII2023](https://eeke-workshop.github.io/2023/)) at the ACM/IEEE Joint Conference on Digital Libraries 2023 (JCDL2023), Santa Fe, New Mexico, USA
+* Call for Paper: 1st Workshop on Innovation Measurement for Scientific Communication in the Era of Big Data ([IMSC2023](https://jcdl2023workshop-imsc.github.io/IMSC2023-workshop/)) at the ACM/IEEE Joint Conference on Digital Libraries 2023 (JCDL2023), Santa Fe, New Mexico, USA
+* Call for Paper: Special issue about “Extraction and Evaluation of Knowledge Entities from Scientific Documents” (EEKE) at [Scientometrics]( https://link.springer.com/collections/hbffbdggdj) (Note: Submission via the  [Scientometrics Editorial Manager](https://www.editorialmanager.com/scim/ ) under “***S.I. : EEKE***” )
+* Call for Paper: Special isssue about "Information Extraction and Language Discourse Processing" at [Information](https://www.mdpi.com/journal/information/special_issues/WYS02U2GTD) 
+* In December 2022, a paper has been accepted by ***Journal of Informetrics***. [[doi]]( https://doi.org/10.1016/j.joi.2022.101373)  [[arxiv]](http://arxiv.org/abs/2212.13860)  [[Dataset & Source Code]](https://github.com/xiangyi-njust/FWS/)
+* In October 2022, Special issue (“AI + informetrics”: multi-disciplinary interactions in the era of big data) on ***Scientometrics*** has been published and the link of the SI is: [https://link.springer.com/journal/11192/volumes-and-issues/127-11](https://link.springer.com/journal/11192/volumes-and-issues/127-11),  [[Editorial]](https://doi.org/10.1007/s11192-022-04561-w)
+* In September 2022, the workshop proceedings of EEKE2022 are published now and you can see at [CEUR](http://ceur-ws.org/Vol-3210/), [DBLP](https://dblp.org/db/conf/eeke/eeke2022.html).
+* Call for Paper: Special issue about “AI + Informetrics: Robust Models for Large-scale Analytics” at Information Processing & Management (IP&M), detailed information can be visited at: [https://ai-informetrics.github.io/2022/](https://ai-informetrics.github.io/2022/)
+* Call for Paper: The 3rd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2022](https://eeke-workshop.github.io/2022/)) to be held as a virtual event as part of the JCDL2022.
+* Call for Paper: Special issue about “Extracting and Evaluating of Knowledge Entities” at [Aslib Journal of Information Management](https://www.emeraldgrouppublishing.com/calls-for-papers/extracting-and-evaluating-knowledge-entities) (Note: Select the special issue on 'Extracting and Evaluating of Knowledge Entities' please)
+* In November 2021, the workshop proceedings of [EEKE2021](https://eeke-workshop.github.io/2021/) are published now and you can see at [CEUR](http://ceur-ws.org/Vol-3004/), [DBLP](https://dblp.org/db/conf/jcdl/eeke2021.html).
+* Call for Paper: The 2nd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2021](https://eeke-workshop.github.io/2021/)) to be held as a virtual event as part of the JCDL2021.
+* Call for Paper: Special issue about "AI + Informetrics" at [Scientometrics](https://link.springer.com/collections/ebfiegeiie)
+* In August 2021, Special issue (Extraction and Evaluation of Knowledge Entities from Scientific Documents) on Journal of Data and Information Science has been published and the link of the SI is: [https://www.sciendo.com/issue/JDIS/6/3](https://www.sciendo.com/issue/JDIS/6/3),  [[Editorial]](https://doi.org/10.2478/jdis-2021-0025)
+* In July 2021, a paper has been accepted by ***Journal of Informetrics***. [[doi]](https://doi.org/10.1016/j.joi.2021.101195)  [[arxiv]](http://arxiv.org/abs/2107.10434)
+* In July 2021, Special issue (Knowledge Entity Extraction and Text Mining in the Era of Big Data) on Data and Information Management has been published and the link of the SI is: [https://sciendo.com/issue/DIM/5/3](https://sciendo.com/issue/DIM/5/3),  [[Editorial]](https://doi.org/10.2478/dim-2021-0009)
+* In May 2021, proceedings of the 1st Workshop on AI + Informetrics (AII2021) are published now and you can see at [CEUR](http://ceur-ws.org/Vol-2871/), [DBLP](https://dblp.org/db/conf/iconference/aii2021.html).
+* In April 2021, a paper has been accepted by ***Journal of Informetrics***.[[doi]](https://doi.org/10.1016/j.joi.2021.101162)  [[arxiv]](https://arxiv.org/abs/2104.05409)
+* Call for Paper: The 1st Workshop on AI + Informetrics ([AII2021](https://ai-informetrics.github.io/aii2021.html)) to be held as a virtual event as part of the iConference2021
+* In January 2021, a paper has been accepted by ***Journal of Informetrics***. [[doi]](https://doi.org/10.1016/j.joi.2021.101134)  [[arxiv]](https://arxiv.org/abs/2101.07614)
+* In October 2020, a paper has been accepted by ***Journal of the Association for Information Science and Technology***. [[doi]](http://doi.org/10.1002/asi.24430)  [[arxiv]](https://arxiv.org/abs/2010.09934)
+* Call for Paper: Special issue about "Extraction and Evaluation of Knowledge Entities from Scientific Documents" at [JDIS](http://manu47.magtech.com.cn/Jwk3_jdis/EN/news/news1.shtml)(Note: when submit, please put a note "EEKE2020" at the beginning of title).
+* Call for Paper: Special issue about 'Scientific Documents Mining and Applications' at [DIM](https://www.editorialmanager.com/dim/default.aspx) (Note: when submit, please put a note “EEKE2020" at the beginning of title).
+* In August 2020, the workshop proceedings of [EEKE2020](https://eeke2020.github.io/) are published now and you can see at [CEUR](http://ceur-ws.org/Vol-2658/), [DBLP](https://dblp.org/db/conf/jcdl/eeke2020.html).
+* In August 2020, a paper has been accepted by ***Journal of Informetrics***. [[doi]](https://doi.org/10.1016/j.joi.2020.101091)  [[arxiv]](https://arxiv.org/abs/2010.10817) [[Demo: Algorithm Influence in NLP (1979~2015)]](https://chengzhizhang.github.io/research/algorithm_entity/algorithm_influence.html)   [[Video](https://chengzhizhang.github.io/research/algorithm_entity/video.html)]
 
 
-## A Free Blogging Theme
-**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
-
-<!--posts-->
-
-
-## An Impressive Portfolio
-A portfolio that's guaranteed to be impressive — no matter what you put into it.
-
-<!--projects-->
-
-
-## A Printable Resume
-Get a resume that's consistent across the board — whether it's on the web, mobile, print, or [PDF](assets/Resume.pdf).
-
-![Resume PDF](assets/img/blog/resume.png){: data-width="1867" data-height="1389"}
-Front and center page of a print resume generated by Hydejack.
-{:.figure}
-
-
-## Just Markup
-**Hydejack** boasts a plethora of modern JavaScript, but make no mistake: It's still a plain old *web page* at its core. It works without JavaScript, and you can even view it in a text-based browser like `w3m`:
-
-![w3m Screenshot](assets/img/blog/w3m.png){:data-width="1920" data-height="1260"}
-The Hydejack blog, as seen by the text browser `w3m`.
-{:.figure}
-
-
-## Syntax Highlighting
-**Hydejack** features syntax highlighting, powered by [Rouge].
-
-```js
-document.getElementsByTagName("hy-push-state")[0].addEventListener("hy-push-state-load", function() {
-  // <your init code>
-});
-```
-
-
-## Beautiful Math
-They say math is beautiful — and with **Hydejack**'s [math support][latex] it's also guaranteed to *look* beautiful.
-
-![Math Screenshot](assets/img/blog/example-content-iii.jpg){:data-width="1060" data-height="596"}
-Hydejack uses KaTeX to efficiently render math.
-{:.figure}
-
-
-## Build an Audience
-The PRO version has built-in support for customizable [Tinyletter] newsletter subscription boxes.
-
-If you are using a different service like MailChimp, you can build a custom newsletter subscription box using [Custom Forms][forms].
-
-
-## A Personal Site That Belongs to You
-**Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
-
-
-## Features
-An incomplete list of features included in all versions of **Hydejack**:
-
-* Full in-app page loading, powered by [hy-push-state]{:.external}
-* Customizable sidebar and touch-enabled drawer menu, powered by [hy-drawer]{:.external}
-* Lazy image loading with cancellation and placeholder, powered by [hy-img]{:.external}
-* Advanced FLIP animations, inspired by Material Design
-* 99/100 [Google PageSpeed Score][gpss][^2]
-* [Syntax highlighting][syntax], powered by [Rouge]
-* [LaTeX math blocks][latex], powered by [KaTeX]
-* Change the wording of built-in strings and possibly translate in other languages
-* Support for categories and tags
-* Built-in icons for many social networks
-* Simple and semantic HTML
-* Structured Data for core entities
-* Author section below each article and support for multiple authors
-* Google Analytics and Google Fonts support
-
-
-## Download
-There are two versions of **Hydejack**: The *free version* includes basic blogging functionality, as did previous versions of the theme.
-The *PRO version* includes additional features for professionals:
-A [portfolio], a [resume] layout, and a [welcome] page to highlight your favorite projects and posts.
-
-This table below shows what's included in each version:
-
-|                        | Free           | PRO      |
-|:-----------------------|:--------------:|:--------:|
-| Blog                   | &#x2714;       | &#x2714; |
-| [Features]             | &#x2714;       | &#x2714; |
-| [Portfolio]            |                | &#x2714; |
-| [Resume]               |                | &#x2714; |
-| [Welcome]              |                | &#x2714; |
-| [Newsletter Box][news] |                | &#x2714; |
-| [Custom Forms][forms]  |                | &#x2714; |
-| Dark Mode              |                | &#x2714; |
-| Cookie Banner          |                | &#x2714; |
-| Offline Support        |                | &#x2714; |
-| No Hydejack Branding   |                | &#x2714; |
-| License                | [GPL-3.0][lic] | [PRO]    |
-| Source                 | [GitHub][src]  | Included |
-| Support[^1]            | No             | No       |
-| Price                  | Free           | $59      |
-| | [**Download**][kit] <br/>-- or --<br/> [![Deploy to Netlify][dtn]{:data-ignore=""}][nfy]{:.no-hover.no-mark} | [**Buy PRO**][buy] |
-{:.stretch-table.dl-table}
-
-
-
-[^1]: You MAY open an issue on GitHub, but no response and/or fix is guaranteed.
-      You understand that using Jekyll requires technical know-how and is not comparable to Wordpress in terms of ease of use. Please use the free version to confirm that Hydejack works for you. For details, see the [PRO] license.
-
-[^2]: Actual page load speed depends on your hosting provider, resolution of embedded images and usage of 3rd party plugins.
-
-[blog]: https://hydejack.com/blog/
-[portfolio]: https://hydejack.com/projects/
-[resume]: https://hydejack.com/resume/
-[download]: https://hydejack.com/download/
-[welcome]: https://hydejack.com/
-[forms]: https://hydejack.com/forms-by-example/
-
-[features]: #features
-[news]: #build-an-audience
-[syntax]: #syntax-highlighting
-[latex]: example/_posts/2018-06-01-example-content-iii.md#math
-
-[lic]: https://hydejack.com/LICENSE/
-[pro]: https://hydejack.com/licenses/PRO/
-[docs]: https://hydejack.com/docs/
-
-[kit]: https://github.com/qwtel/hydejack-starter-kit/archive/master.zip
-[src]: https://github.com/qwtel/hydejack
-[gem]: https://rubygems.org/gems/jekyll-theme-hydejack
-[buy]: https://app.simplegoods.co/i/NATYVLYT
-[nfy]: https://app.netlify.com/start/deploy?repository=https://github.com/qwtel/hydejack-starter-kit
-[dtn]: https://www.netlify.com/img/deploy/button.svg
-
-[gpss]: https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fhydejack.com%2F
-[hy-push-state]: https://qwtel.com/hy-push-state/
-[hy-drawer]: https://qwtel.com/hy-drawer/
-[hy-img]: https://qwtel.com/hy-img/
-[rouge]: http://rouge.jneen.net
-[katex]: https://khan.github.io/KaTeX/
-[tinyletter]: https://tinyletter.com/
-
-*[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations.
+<br>
+<p align="center">
+<a href='https://clustrmaps.com/site/1bcxl'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=450&t=tt&d=m33y5dN8Mj3n06hFPjMAdcBqZ_bJr4ridHxEPxBPbls'/></a>
+<br>(From 2022/05/10 to now)
+</p>
