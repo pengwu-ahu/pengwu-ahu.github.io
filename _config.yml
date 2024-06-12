@@ -46,7 +46,7 @@ apple_touch_icon: assets/img/icons/peng.png
 author:
   # Used by `jekyll-feed`:
   name:                Peng Wu
-  email:               pengwu@ahu.edu.cn
+  email:               littlepengwu@126.com
   picture:
     path:            /assets/img/pengwu.jpg
   # # Used by `jekyll-seo-tag`:
@@ -61,8 +61,8 @@ menu:
     url:               /about/
   - title:             Research
     url:               /about/
-  - title:             Publications
-    url:               /about/
+  - title:             Papers
+    url:               /papers/
   - title:             Teaching
     url:               /about/
   - title:             Service
