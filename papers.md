@@ -7,8 +7,8 @@ order:  3
 ---
  (*=corresponding author)
 ## 2024
-* [J15] **P. Wu(吴澎)**, T.J. Tang, L.G. Zhou, L. Martinez. A decision-support model through online reviews: Consumer preference analysis and product ranking[J]. ***Information Processing and Management***, 2024, 61, 103728.  [[doi]](https://doi.org/10.1016/j.ipm.2024.103728)
-* [J14] S.H. Liu, S. Chen, **P. Wu**, Q. Wu, L.G. Zhou, M. Deveci, A. Mardani. An integrated CRITIC‐EDAS approach for assessing enterprise crisis management effectiveness based on Weibo[J]. Journal of Contingencies and Crisis Management, 2024, 32, e12572.  [[doi]](https://doi.org/10.1111/1468-5973.12572)
+* [J15] **P. Wu**, T.J. Tang, L.G. Zhou, L. Martinez. A decision-support model through online reviews: Consumer preference analysis and product ranking[J]. ***Information Processing and Management***, 2024, 61, 103728.  [[doi]](https://doi.org/10.1016/j.ipm.2024.103728)
+* [J14] S.H. Liu, S. Chen, **P. Wu**, Q. Wu, L.G. Zhou, M. Deveci, A. Mardani. An integrated CRITIC‐EDAS approach for assessing enterprise crisis management effectiveness based on Weibo[J]. ***Journal of Contingencies and Crisis Management***, 2024, 32, e12572.  [[doi]](https://doi.org/10.1111/1468-5973.12572)
 
 ## 2023
 * [J13] **P. Wu**, F.E. Li, J. Zhao, L.G. Zhou, L. Maritnez. Consensus reaching process driven by multiobjective optimization for large-scale group decision making with cooperative game[J]. ***IEEE Transactions on Fuzzy Systems***, 2023, 31(1): 293-306.  [[doi]](https://doi.org/10.1109/TFUZZ.2022.3186186)

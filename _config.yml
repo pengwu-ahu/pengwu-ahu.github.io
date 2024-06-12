@@ -53,22 +53,22 @@ author:
   # twitter:             <username>
   social:
     github:          pengwu-ahu
-    email:           pengwu@ahu.edu.cn
+    email:           littlepengwu@126.com
 
 # Add links to the sidebar.
 menu:
   - title:             About
     url:               /about/
-  - title:             Research
-    url:               /about/
-  - title:             Papers
+  # - title:             Research
+  #   url:               /about/
+  - title:             Publications
     url:               /papers/
   - title:             Teaching
-    url:               /about/
-  - title:             Service
-    url:               /about/
+    url:               /teaching/
+  # - title:             Service
+  #   url:               /about/
   - title:             Contact
-    url:               /about/
+    url:               /contact/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
