@@ -6,6 +6,14 @@ menu:   true
 order:  3
 ---
  (*=corresponding author)
+
+## 2025
+
+* [J19] **P. Wu**, S. Sun, L. Zhou, Y. Yao, M. Deveci. Platforms empower: Mining online reviews for supporting consumers decisions[J]. **Journal of Retailing and Consumer Services**, 2025, 84, 104214
+* [J18] **P. Wu**, Y. Xie, L. Zhou, M. Deveci, L. Martínez. Multi-source data driven decision-support model for product ranking with consumer psychology behavior[J]. **Information Fusion**, 2025, 118, 103014.
+* [J17] **P. Wu**, Q. Duan, L. Zhou, Q. Wu, M. Deveci. Spatial-temporal evaluation of urban resilience in the Yangtze River Delta from the perspective of the coupling coordination degree[J]. **Environment, Development and Sustainability**, 2025, 27, 409-431.
+* [J16] Y. Ding, **P. Wu**, J. Zhao, L. Zhou. Forecasting product sales using text mining a case study in new energy vehicle[J]. ***Electronic Commerce Research\***, 2025, 25, 495-527. 
+
 ## 2024
 * [J15] **P. Wu**, T.J. Tang, L.G. Zhou, L. Martinez. A decision-support model through online reviews: Consumer preference analysis and product ranking[J]. ***Information Processing and Management***, 2024, 61, 103728.  [[doi]](https://doi.org/10.1016/j.ipm.2024.103728)
 * [J14] S.H. Liu, S. Chen, **P. Wu**, Q. Wu, L.G. Zhou, M. Deveci, A. Mardani. An integrated CRITIC‐EDAS approach for assessing enterprise crisis management effectiveness based on Weibo[J]. ***Journal of Contingencies and Crisis Management***, 2024, 32, e12572.  [[doi]](https://doi.org/10.1111/1468-5973.12572)
