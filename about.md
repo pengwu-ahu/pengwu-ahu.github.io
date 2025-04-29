@@ -11,11 +11,11 @@ I serve as an active reviewer for several prestigious journals, such as the Jour
 
 My research focuses on:
 
-Business Big Data Analytics & Mining
+- Business Big Data Analytics & Mining
 
-AI-Driven Business Decision-Making & Prediction
+- AI-Driven Business Decision-Making & Prediction
 
-Large Language Models (LLMs) for Business Applications
+- Large Language Models (LLMs) for Business Applications
 
 I am particularly interested in developing data-driven AI models to enhance business intelligence, operational efficiency, and strategic decision-making.
 
