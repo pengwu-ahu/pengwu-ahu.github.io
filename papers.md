@@ -9,10 +9,10 @@ order:  3
 
 ## 2025
 
-* [J19] **P. Wu**, S. Sun, L. Zhou, Y. Yao, M. Deveci. Platforms empower: Mining online reviews for supporting consumers decisions[J]. **Journal of Retailing and Consumer Services**, 2025, 84, 104214
-* [J18] **P. Wu**, Y. Xie, L. Zhou, M. Deveci, L. Martínez. Multi-source data driven decision-support model for product ranking with consumer psychology behavior[J]. **Information Fusion**, 2025, 118, 103014.
-* [J17] **P. Wu**, Q. Duan, L. Zhou, Q. Wu, M. Deveci. Spatial-temporal evaluation of urban resilience in the Yangtze River Delta from the perspective of the coupling coordination degree[J]. **Environment, Development and Sustainability**, 2025, 27, 409-431.
-* [J16] Y. Ding, **P. Wu**, J. Zhao, L. Zhou. Forecasting product sales using text mining a case study in new energy vehicle[J]. ***Electronic Commerce Research\***, 2025, 25, 495-527. 
+* [J19] **P. Wu**, S. Sun, L. Zhou, Y. Yao, M. Deveci. Platforms empower: Mining online reviews for supporting consumers decisions[J]. **Journal of Retailing and Consumer Services**, 2025, 84, 104214. [[doi]](https://doi.org/10.1016/j.inffus.2025.103014) 
+* [J18] **P. Wu**, Y. Xie, L. Zhou, M. Deveci, L. Martínez. Multi-source data driven decision-support model for product ranking with consumer psychology behavior[J]. **Information Fusion**, 2025, 118, 103014.[[doi]](https://doi.org/10.1016/j.jretconser.2024.104214)
+* [J17] **P. Wu**, Q. Duan, L. Zhou, Q. Wu, M. Deveci. Spatial-temporal evaluation of urban resilience in the Yangtze River Delta from the perspective of the coupling coordination degree[J]. **Environment, Development and Sustainability**, 2025, 27, 409-431.[[doi]](https://doi.org/10.1007/s10668-023-03087-2)
+* [J16] Y. Ding, **P. Wu**, J. Zhao, L. Zhou. Forecasting product sales using text mining a case study in new energy vehicle[J]. ***Electronic Commerce Research\***, 2025, 25, 495-527. [[doi]](https://doi.org/10.1007/s10660-023-09701-9)
 
 ## 2024
 * [J15] **P. Wu**, T.J. Tang, L.G. Zhou, L. Martinez. A decision-support model through online reviews: Consumer preference analysis and product ranking[J]. ***Information Processing and Management***, 2024, 61, 103728.  [[doi]](https://doi.org/10.1016/j.ipm.2024.103728)
